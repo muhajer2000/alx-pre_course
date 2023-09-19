@@ -1,1 +1,1 @@
-make change update snd pull
+make change update ["git pull"]
